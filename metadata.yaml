@@ -1,0 +1,29 @@
+_repo: John-Caldigate_11643
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: Dybt forgældet bliver John Caldigate, arvingen til Folking, uvenner med
+  sin far og han beslutter at prøve lykken ved at rejse til Australien som guldgraver
+  sammen med vennen Dick Shand
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Gold mines and mining -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Australia -- Fiction'
+- GITenberg
+title: John Caldigate
+url: http://www.gutenberg.org/ebooks/11643
