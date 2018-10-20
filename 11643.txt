@@ -15,7 +15,7 @@ Title: John Caldigate
 Author: Anthony Trollope
 
 Release Date: March 19, 2004  [eBook #11643]
-Most recently updated: October 1, 2004
+Most recently updated: November 28, 2015
 
 Language: English
 
@@ -1134,7 +1134,7 @@ It was as though a thunderbolt had fallen among them at Babington. Mr.
 Babington himself was certainly not a clever man, but he knew enough of
 his own position, as an owner of acres, to be very proud of it, and he
 was affectionate enough towards his nephew to feel the full weight of
-this terrible disruption It seemed to him that his brother-in-law,
+this terrible disruption. It seemed to him that his brother-in-law,
 Daniel Caldigate, was doing a very wicked thing, and he hurried across
 the country, to Folking, that he might say so. 'You have not sense
 enough to understand the matter,' said Daniel Caldigate. 'You have no
@@ -1161,7 +1161,7 @@ There is something jovial when you are young in preparing for a long
 voyage and for totally altered circumstances in life, especially when
 the surroundings are in themselves not melancholy. A mother weeping over
 a banished child may be sad enough,--going as an exile when there is no
-hope of a return, But here among the Shands, with whom sons and
+hope of a return. But here among the Shands, with whom sons and
 daughters were plentiful, and with whom the feelings were of a useful
 kind, and likely to wear well, rather than of a romantic nature, the
 bustle, the purchasings, the arrangements, and the packings generally
@@ -1552,7 +1552,7 @@ their wraps, and lounged about the deck in light attire. During the
 bright hours of the day the aristocrats, in the stern, were shrouded
 from the sun by a delightful awning; but, forward, the passengers sought
 the shade of the loose idle sails, or screened themselves from the
-fierce rays as best they might among the hatchways and woodwork But it
+fierce rays as best they might among the hatchways and woodwork. But it
 was when the burning sun had hidden himself, when the short twilight had
 disappeared, and the heavens were alive and alight with stars, that all
 the world of the ship would be crowded on the upper deck. There they
@@ -2105,7 +2105,7 @@ her contempt, and was now as deeply suspected by Mrs. Bones as by Mrs.
 Crompton or Mrs. Callander.
 
 But of all the foes to this intimacy Dick Shand was for a time the most
-bitter and the most determined No doubt this arose at first from
+bitter and the most determined. No doubt this arose at first from
 jealousy. He had declared his purpose of unravelling the mystery; but
 the task had been taken out of his hands, and the unravelling was being
 done by another. And the more that the woman was abused, and the more
@@ -2422,7 +2422,7 @@ Melbourne is built. After leaving the tropics they had gone down south,
 and had encountered showers and wind, and cold weather, but now they had
 come up again into warm latitudes and fine autumn weather,--for it was
 the beginning of March, and the world out there is upside down. Before
-that evening nothing had been said between Mrs Smith and John Caldigate
+that evening nothing had been said between Mrs. Smith and John Caldigate
 as to any future; not a word to indicate that when the journey should be
 over, there would or that there would not be further intercourse between
 them. She had purposely avoided any reference to a world after this world
@@ -4066,7 +4066,7 @@ had passed, and that the father had told himself again and again that
 his son had torn himself altogether away from all remembrance of his
 home, before the letter came.
 
-It was not a long letter, but it was very satisfactory The finding of
+It was not a long letter, but it was very satisfactory. The finding of
 the gold was in itself, of course, a great thing; but the manner in
 which it was told, without triumph or exultation, but with an air of
 sober, industrious determination, was much more; and then there was a
@@ -4318,7 +4318,7 @@ surrounded had not been attractive to him. In all our colonies the women
 are beautiful and in the large towns a society is soon created, of which
 the fastidious traveller has very little ground to complain; but in the
 small distant bush-towns, as they are called, the rougher elements must
-predominate Our hero, though he had worn moleskin trousers and jersey
+predominate. Our hero, though he had worn moleskin trousers and jersey
 shirts, and had worked down a pit twelve hours a-day with a pickaxe, had
 never reconciled himself to female roughnesses. He had condescended to
 do so occasionally,--telling himself that it was his destiny to pass his
@@ -4486,7 +4486,7 @@ people are fools to you.'
 
 'I deny it. Our neighbour over the water'--the middle wash was always
 called the water at Folking--'never looks at a book, as far as I know,
-and he is not a fool. He thoroughly understands his own business But
+and he is not a fool. He thoroughly understands his own business. But
 your uncle Babington doesn't know how to manage his own property,--and
 yet he knows nothing else. That's what I call being a fool.'
 
@@ -4895,7 +4895,7 @@ up all the tender fibre of his wings, yet he can't help returning to the
 seductions of the tallow-candle till his whole body has become a
 wretched cinder. Why should he have been the first to speak of the book?
 
-Of course she blushed, and of course she stammered But in spite of her
+Of course she blushed, and of course she stammered. But in spite of her
 stammering she could say a word. 'I dare say you never looked at it.'
 
 'Indeed I did,--very often. Once when Dick saw it in my hands, he wanted
@@ -4936,7 +4936,7 @@ in many very strange places.'
 
 Then there was a pause,--while he thought of escaping, and she of
 utilising the occasion. And yet it was not in her nature to be
-unmaidenly or aggressive Only if he did like her it would be so very
+unmaidenly or aggressive. Only if he did like her it would be so very
 nice, and it is so often the case that men want a little encouragement!
 'I dare say you thought more of the book than the donor.'
 
@@ -5869,7 +5869,7 @@ should be a religious man. Perhaps you are.'
 
 'I am neither the one thing nor the other,--especially.'
 
-'And therefore peculiarly dangerous in her eyes It is natural that she
+'And therefore peculiarly dangerous in her eyes. It is natural that she
 should oppose you.'
 
 'What am I to do, then?'
@@ -5878,7 +5878,7 @@ should oppose you.'
 not know that we are a romantic family. My father is autocratic in his
 own house.'
 
-This last assurance seemed to contain some comfort As Mrs. Bolton would
+This last assurance seemed to contain some comfort. As Mrs. Bolton would
 be his enemy in the matter, it was well that the power of deciding
 should be in other hands. 'I do not mean to give it up,' said he.
 
@@ -6057,7 +6057,7 @@ Men Are So Wicked
 
 A month had passed by since Caldigate's interview with Mrs. Bolton, and
 nothing had as yet been decided either for him or against him at
-Chesterton And the fact that no absolute decision had been made against
+Chesterton. And the fact that no absolute decision had been made against
 him may be taken as having been very much in his favour. But of those
 who doubted, and doubting, had come to no decision, Mrs. Bolton herself
 was by no means one. She was as firm as ever in her intention that the
@@ -7199,7 +7199,7 @@ she was quite, quite sure that any such civility would be a sin. The man
 was pitch,--though she had been coerced by the exigencies of a worldly
 courtesy to deny that she had intended to say so. He was pitch to her,
 and she declared to herself that were she to touch him she would be
-denied. But she knew not in what language to explain all this. 'What you
+defiled. But she knew not in what language to explain all this. 'What you
 call graciousness, Hester, is an obligation of which religion knows
 nothing,' she said after a pause.
 
@@ -7635,7 +7635,7 @@ that everybody ought to be proud of him.'
 'John! Of course he'll go if I ask him. There's nothing he wouldn't do
 to make me happy. But really when I talk to him about it at all, I am
 ashamed of myself. Poor mamma!' The result of this visit was, however,
-very comforting. Mrs Daniel had seen Mrs. Bolton, and had herself been
+very comforting. Mrs. Daniel had seen Mrs. Bolton, and had herself been
 witness to the fact that Mrs. Bolton had mitigated the sternness of her
 denial when asked to receive her son-in-law at Puritan Grange. It was,
 said Mrs. Daniel, the settled opinion of the Bolton family that, in the
@@ -7662,7 +7662,7 @@ Polueuka mine had been suddenly accepted by certain enterprising persons
 in Australia, and that the money itself had been absolutely forthcoming.
 This had been in every way fortunate, as he had been saved from the
 trouble of another journey to the colony; and his money matters had been
-put on such a footing as to make him altogether comfortable But just
+put on such a footing as to make him altogether comfortable. But just
 when he heard that the money had been lodged to his account,--and when
 the money actually had been so paid,--he received a telegram from Mr.
 Crinkett, begging that the matter might be for a time postponed. This,
@@ -7671,7 +7671,7 @@ might have gone for very little had not the money been forthcoming. But
 the cash was positively in his hands. Who ever heard of a man
 'postponing' an arrangement in such circumstances? Let them do what they
 might with Polyeuka, he was safe! He telegraphed back to say that there
-could be no postponement As far as he was concerned the whole thing was
+could be no postponement. As far as he was concerned the whole thing was
 settled. Then there came a multiplicity of telegrams, very costly to the
 Crinkett interest;--costly also and troublesome to himself; for he,
 though the matter was so pleasantly settled as far as he was concerned,
@@ -7679,7 +7679,7 @@ could not altogether ignore the plaints that were made to him. Then
 there came very long letters, long and loud; letters not only from
 Crinkett, but from others, telling him that the Polyeuka gold had come
 to an end, the lode disappearing altogether, as lodes sometimes do
-disappear The fact was that the Crinkett Company asked to have back half
+disappear. The fact was that the Crinkett Company asked to have back half
 its money, offering him the Polyeuka mine in its entirety if he chose to
 accept it.
 
@@ -8603,7 +8603,7 @@ for a time he was so confounded by the apparition of his enemy as to be
 unable to bring his mind to work properly on the subject. 'Let him do
 his worst,' he kept on saying to himself; 'let him do his worst.' But he
 knew that the brave words, though spoken only to himself, were mere
-braggadocio No doubt the man would do his worst, and very bad it would
+braggadocio. No doubt the man would do his worst, and very bad it would
 be to him. At the moment he was so cowed by fear that he would have
 given half his fortune to have secured the woman's silence,--and the
 man's. How much better would it have been had he acceded to the man's
@@ -9044,7 +9044,7 @@ relatives, and afterwards bowed politely to the two men, and told them
 that she was glad to see her husband's old friends and fellow-workmen.
 
 'Yes, mum,' said Jack Adamson; 'we've been fellow-workmen when the work
-was hard enough. 'T young squire seems to have got over his difficulties
+was hard enough. T' young squire seems to have got over his difficulties
 pretty tidy!' Then she smiled again, and nodded to them, and retreated
 back to her mother.
 
@@ -9223,7 +9223,7 @@ money, and he had been quite certain that Crinkett himself, when making
 the bargain, had considered himself to be in luck's way. But such
 property, as he well knew, was, by its nature, precarious and liable to
 sudden changes. He had been fortunate, and the purchasers had been the
-reverse Of that he had no doubt, though probably the man had exaggerated
+reverse. Of that he had no doubt, though probably the man had exaggerated
 his own misfortune. When he had been given to understand how bad had
 been the fate of these old companions of his in the matter, with the
 feelings of a liberal gentleman he was anxious to share with them the
@@ -9809,7 +9809,7 @@ woman, stated that she obtained at the time, the register itself, which
 consisted simply of an entry in a small book, having been carried away
 by Mr. Allan in his pocket. Crinkett, when asked what had become of Mr.
 Allan, stated that he knew nothing but that he had left Ahalala. From
-that day to this none of them had heard of Mr Allan.
+that day to this none of them had heard of Mr. Allan.
 
 Then the mayor gave Caldigate to understand that he must hold himself as
 committed to stand his trial for bigamy at the next Assizes for the
@@ -10452,7 +10452,7 @@ It very nearly came to pass that Hester left her mother on the morning
 of her arrival. They had both determined to be cautious, reticent, and
 forbearing but the difference between them was so vital that reticence
 was impossible. At first there was a profusion of natural tears, and a
-profusion of embraces Each clung to the other for a while as though some
+profusion of embraces. Each clung to the other for a while as though some
 feeling might be satisfied by mere contact; and then the woe of the
 thing, the woe of it, was acknowledged on both sides! They could agree
 that the wickedness of the wicked was very wicked. Wherever might lie
@@ -12419,7 +12419,7 @@ money had been supposed to vanish in the Polyeuka mine. No doubt
 there had been enough in that to create animosity of the most bitter
 kind against Caldigate. He in his search for gold had been uniformly
 successful,--was spoken of among the Nobble miners as the one man who
-in gold- digging had never had a reverse. He had gone away just before
+in gold-digging had never had a reverse. He had gone away just before
 the bad time came on Polyeuka; and then had succeeded, after he had
 gone, in extracting from these late unfortunate partners of his every
 farthing that he had left them! There was ample cause for animosity.
@@ -14854,7 +14854,7 @@ with a sudden obstinacy. She had had no hand in the choice. She would
 fain have postponed any choice, and would then fain have herself made
 the choice. But a man was brought who was distasteful to her at all
 points, and she was told that that man was to have her daughter! He was
-thoroughly distasteful He had been a spendthrift and a gambler;--then a
+thoroughly distasteful. He had been a spendthrift and a gambler;--then a
 seeker after gold in wild, godless countries, and, to her thinking, not
 at all the better because he had been a successful seeker. She believed
 the man to be an atheist. She was told that his father was an infidel,
@@ -14881,7 +14881,7 @@ tenets of her life,--the strongest, perhaps, of all those doctrines on
 which she built her faith,--that this world is a world of woe; that
 wailing and suffering, if not gnashing of teeth, is and should be the
 condition of mankind preparatory to eternal bliss. For eternal bliss
-there could, she thought, be no other preparation She did not want to be
+there could, she thought, be no other preparation. She did not want to be
 happy here, or to have those happy around her whom she loved. She had
 stumbled and gone astray,--she told herself hourly now that she had
 stumbled and gone astray,--in preparing those roses and ribbons, and
@@ -16145,7 +16145,7 @@ have impressed me vividly with all that they can tell me. My present
 impression is, that you had better take the journey. But within the next
 few days I will give a little more thought to it, and you shall hear
 from me.' Then he put out his hand, which was a courtesy Mr. Bagwax had
-never before enjoyed 'You may believe me, Mr. Bagwax, when I say that I
+never before enjoyed. 'You may believe me, Mr. Bagwax, when I say that I
 have come across many remarkable men in many cases which have fallen
 into my hands,--but that I have rarely encountered a man whom I have
 more thoroughly respected than I do you.'
@@ -17091,7 +17091,7 @@ his eyebrows, marvelling at the simplicity of the man who could fancy
 that his single word would be able to weigh down the weight of evidence
 which had sufficed to persuade twelve men and such a judge as Judge
 Bramber. 'I was with Caldigate all the time, and I'm sure of what I'm
-saying The two weren't on speaking terms when they were said to be
+saying. The two weren't on speaking terms when they were said to be
 married.'
 
 'Of course, Mr. Shand, as you have come to me, I will hear what you may
@@ -17925,7 +17925,7 @@ the work and got nothing.'
 'When I asked him to get me sent, he said he'd no power;--not now it's
 all so plain.' He turned his face down towards the desk to hide the tear
 that now was, in truth, running down his face. 'But duty!' he said,
-looking up again. 'Duty! England expects----. D--n it, who's going to
+looking up again. 'Duty! England expects----. D----n it, who's going to
 whimper? When I lay my head on my pillow at night and think that I, I,
 Thomas Bagwax, have restored that nameless one to her babe and her lord,
 I shall sleep even though that pillow be no better than a hard bolster.'
@@ -18106,7 +18106,7 @@ disregard popularity. He had forced himself into practice, in opposition
 to the attorneys, by industry and perspicuity. He had attended
 exclusively to his profession, never having attempted to set his foot on
 the quicker stepping-stones of political life. It was said of him that
-no one knew whether he called himself Liberal or Conservative At
+no one knew whether he called himself Liberal or Conservative. At
 fifty-five he was put upon the bench, simply because he was supposed to
 possess a judicial mind. Here he amply justified that opinion,--but not
 without the sneer and ill-words of many. He was now seventy, and it was
@@ -18283,7 +18283,7 @@ that the finding of the jury was wrong because the prosecuting party had
 concocted a fraud which had not been found out before the verdict was
 given? Sir John Joram, whom he had known almost as a boy, had 'demanded'
 the release of his client. The word stuck in Judge Bramber's throat. The
-word had been injudicious The more he thought of the word the more he
+word had been injudicious. The more he thought of the word the more he
 thought that the verdict had been a true verdict, in spite of the fraud.
 A very honest man was Judge Bramber;--but human.
 
@@ -18339,7 +18339,7 @@ then with his own natural eloquence. 'Yes, Mrs. Caldigate the postmarks
 are difficult. It takes a lifetime of study to understand all the ins
 and outs of postmarks. To me it is A B C of course. When I had spent a
 week or two looking into it I was sure that impression had never been
-made in the way of business Bagwax was sitting out on the lawn at
+made in the way of business. Bagwax was sitting out on the lawn at
 Folking and the bereaved wife, dressed in black, was near him, holding
 in her hand one of the photographed copies of the envelope. 'It's A B C
 to me; but I don't wonder you shouldn't see it.'
@@ -20327,7 +20327,7 @@ made from the Home Office to some one at Folking, and as that would be
 sent out by the foot-postman it would not be received before nine in the
 morning.
 
-But Caldigate would not allow himself to be persuaded As for eating
+But Caldigate would not allow himself to be persuaded. As for eating
 before he had seen the dear ones at home, that he declared to be
 impossible. A vision of what that breakfast might be to him with his own
 wife at his side came before his eyes, and therefore a messenger was at
